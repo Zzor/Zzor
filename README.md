@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Website](https://img.shields.io/static/v1?label=&message=Website&color=ff69b4)](https://hugo-salazar.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-salazar/)
+[![Codepen](https://img.shields.io/badge/-Codepen-fff?style=flat&logo=Codepen&logoColor=black)](https://codepen.io/HugoSalazar)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hugo.salazar.cardozo@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Zzor/)
 
-<!--
-**Zzor/Zzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola 👋, soy Hugo Salazar
+### Un Maquetador Web francés erradicado en Mallorca
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tengo 8 años de experiencia profesional como **Maquetador Web** en Webapps.
+
+- Tengo 2 años de experiencia profesional en Diseño Web y en programación WordPress.
+
+- Actualmente me estoy formando en **REACT JS**.

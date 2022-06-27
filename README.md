@@ -1,3 +1,5 @@
+![cover](https://github.com/zzor/zzor/blob/main/hugo-salazar.png)
+
 [![Website](https://img.shields.io/static/v1?label=&message=Website&color=ff69b4)](https://hugo-salazar.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-salazar/)
 [![Codepen](https://img.shields.io/badge/-Codepen-fff?style=flat&logo=Codepen&logoColor=black)](https://codepen.io/HugoSalazar)

@@ -7,11 +7,11 @@
 ![cover](https://github.com/zzor/zzor/blob/main/hugo-salazar.png)
 
 # Hola 👋, soy Hugo Salazar
-### Un Maquetador Web francés erradicado en Mallorca
+### Un Maquetador Web Colombiano en Mallorca
 
 
-- Tengo 8 años de experiencia profesional como **Maquetador Web** en Webapps.
+- Tengo mas de 9 años de experiencia profesional como **Maquetador Web** de Webapps (ReactJS, Vue JS) y páginas webs (Django Template).
 
-- Tengo 2 años de experiencia profesional en Diseño Web y en programación WordPress.
+- Tengo 4 años de experiencia profesional programando páginas a medida en WordPress 
 
-- Actualmente me estoy formando en **REACT JS**.
+- Tengo 2 años de experiencia profesional en Diseño Web.

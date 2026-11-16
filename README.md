@@ -10,8 +10,6 @@
 ### Un Maquetador Web Colombiano en Mallorca
 
 
-- Tengo mas de 9 años de experiencia profesional como **Maquetador Web** de Webapps (ReactJS, Vue JS) y páginas webs (Django Template).
-
-- Tengo 4 años de experiencia profesional programando páginas a medida en WordPress 
-
-- Tengo 2 años de experiencia profesional en Diseño Web.
+- Tengo mas de 12 años de experiencia profesional como **Maquetador Web** de Webapps (ReactJS, Vue JS) y páginas webs (Django Template).
+- Tengo 7 años de experiencia profesional programando páginas a medida en WordPress 
+- Tengo 13 años de experiencia profesional en Diseño Web.

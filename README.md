@@ -7,7 +7,7 @@
 ![cover](https://github.com/zzor/zzor/blob/main/hugo-salazar.png)
 
 # Hola 👋, soy Hugo Salazar
-### Un Maquetador Web Colombiano en Mallorca
+### Un Maquetador Web Colombiano en Barcelona/Malorca
 
 
 - Tengo mas de 12 años de experiencia profesional como **Maquetador Web** de Webapps (ReactJS, Vue JS) y páginas webs (Django Template).
